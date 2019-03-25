@@ -101,6 +101,7 @@ header h1 {
 
 #main #thumbs figure p {
   text-align: center;
+  text-transform: capitalize;
   color: bisque;
   padding: 50px 0;
   font-size: 2em;
@@ -109,6 +110,7 @@ header h1 {
 
 #main #thumbs figure figcaption {
   text-align: center;
+  text-transform: capitalize;
   background-color: #1a1a1a;
   color: bisque;
   font-size: 0.8em;
